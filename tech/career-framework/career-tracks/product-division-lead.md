@@ -5,6 +5,7 @@
 - Leadership
   - Managing product family leads, defining their goals, responsibilities, providing feedback.
   - Growing, coaching and developing the product division to scale and meet the business needs.
+  - Driving engagement and productivity of the product division.
   - Acting as a hiring manager, recruiting especially senior members of the product division.
   - Being the main point of contact representing the product division in cross-organizational and external matters.
 - Product
