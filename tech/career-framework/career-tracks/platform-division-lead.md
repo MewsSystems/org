@@ -9,7 +9,7 @@
   - Being the main point of contact representing the platform in cross-organizational and external matters.
 - Product
   - Understanding the high-level picture of the platform usage, products built on top of that and their needs.
-  - Defining long term product vision and strategy for the platform engineering division in alignment with company strategy and business needs.
+  - Defining long term product vision and strategy for the platform engineering division in alignment with company strategy.
   - Contributing to vision and strategy of platform families, driving design or influencing platform-wide projects.
   - Overseeing execution of the strategy by platform families and ensuring successful delivery.
   - Being a stakeholder in terms of architectural or strategical technical decisions.
