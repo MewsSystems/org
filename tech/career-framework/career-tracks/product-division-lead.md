@@ -15,7 +15,7 @@
   - Being the main partner to product department, closely collaborating on processes and methodologies.
   - Contributing to product discovery processes, ensuring successful collaboration with product among the teams.
 - Culture
-  - Driving technical excellence and continuous improvement among all teams and divisions.
+  - Driving culture of technical excellence and continuous improvement among all teams and divisions.
   - Defining quality standards, continuous delivery processes and methodologies and making sure they're followed.
   - Being an ambassador of the product division, both internally by knowledge sharing and externally by publishing, talking etc.
   - Setting the bar for content, growing public reputation and defining public image of Mews engineering as highly respected.
