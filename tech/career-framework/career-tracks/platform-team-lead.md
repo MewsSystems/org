@@ -2,18 +2,22 @@
 
 ## Responsibilities
 
-- Manage the team in line with our values.
-- Coach and mentor engineers on your team and help them progress in their careers by giving feedback and setting goals.
-- Hold regular 1-2-1s with team members.
-- Improve the happiness and productivity of the team.
-- Be part of the hiring process and plan for the long-term.
-- Own the definition and execution of the team's long-term success.
-- Act as a product manager for the team.
-- Define and drive OKRs, roadmap and its delivery.
-- Oversee team responsibilities and ensure those are being fulfilled.
-- Run agile ceremonies within the team like plannings or retrospectives.
-- Continuously improve our ways of working.
-- Write public blog posts and speak at conferences.
+- Management
+  - Managing members of the teams, defining their goals, responsibilities, providing feedback.
+  - Growing, coaching and developing the team members to help them progress in their careers.
+  - Driving engagement and productivity of the team.
+  - Acting as a hiring manager, recruiting members of the team.
+  - Being the main point of contact representing the team in cross-organizational matters.
+- Product
+  - Defining long term product vision and strategy for the team in alignment with company strategy.
+  - Driving execution of the team strategy and its initiaties.
+  - Solutioning team initiatives, driving their delivery in an iterative manner and enuring the technical quality.
+  - Overseeing team responsibilities and enuring those are being continuously fulfilled.
+  - Partially contributing as an [engineer](engineer.md) and fulfilling their responsibilities.
+- Culture
+  - Contributing to culture of technical excellence and continuous improvement.
+  - Driving agile culture within the team, raising problems in timely manner.
+  - Being ambassador of the team, both internally by knowledge sharing and externally by publishing, talking etc.
 
 ## Performance Indicators
 
