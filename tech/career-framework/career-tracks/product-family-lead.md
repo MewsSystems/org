@@ -9,7 +9,7 @@
   - Acting as a hiring manager, recruiting especially senior members of the product family.
   - Being the main point of contact representing the product family in cross-organizational matters.
 - Product
-  - Understanding the high-level picture of the product usage, customer use cases and their needs.
+  - Understanding the high-level picture of the product strategy, usage, customer use cases and their needs.
   - Contributing to product vision and product strategy in alignment with company strategy.
   - Overseeing execution of the strategy by product teams, driving successful delivery of the product team initiaties.
   - Balancing tempo and quality of delivery, keeping product and technical roadmap contribution healthy.
