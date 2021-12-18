@@ -9,7 +9,7 @@
   - Acting as a hiring manager, recruiting especially senior members of the platform family.
   - Being the main point of contact representing the family in cross-organizational matters.
 - Product
-  - Understanding the high-level picture of the platform strategy, products built on top of it and user needs.
+  - Understanding the high-level picture of the platform strategy, usage, products built on top of it and user needs.
   - Defining long term product vision and strategy for the platform family in alignment with company strategy.
   - Making users of the platform family successful, incorporating their feedback, elevating them.
   - Overseeing execution of the strategy by platform teams, driving successful delivery of the platform team initiaties.
