@@ -12,6 +12,7 @@
   - Defining long term product vision and strategy for the platform family in alignment with company strategy.
   - Making users of the platform family successful, incorporating their feedback, elevating them.
   - Overseeing execution of the strategy by platform teams, driving successful delivery of the platform team initiaties.
+  - Balancing tempo and quality of delivery.
   - Being a stakeholder in terms of technical decisions for relevant technical leaders.
   - Driving design or influencing platform-wide projects, cooperating with other platform family leads.
 - Culture
