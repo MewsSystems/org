@@ -9,7 +9,7 @@
   - Acting as a hiring manager, recruiting especially senior members of the product division.
   - Being the main point of contact representing the product division in cross-organizational and external matters.
 - Product
-  - Understanding the high-level picture of the product usage, customer use cases and their needs.
+  - Understanding the high-level picture of the product strategy, usage, customer use cases and their needs.
   - Contributing to product vision and product strategy in alignment with company strategy.
   - Overseeing execution of the strategy by product families and ensuring successful delivery.
   - Being a stakeholder in terms of organizational and strategical technical decisions.
