@@ -17,6 +17,6 @@
   - Being a stakeholder in terms of technical decisions for relevant technical leaders.
   - Driving design or influencing platform-wide projects, cooperating with other platform family leads.
 - Culture
-  - Contributing to culture of technical excellence and continuous improvement among all teams and divisions.
+  - Contributing to culture of technical excellence and continuous improvement.
   - Being ambassador of the family, both internally by knowledge sharing and externally by publishing, talking etc.
   - Setting the bar for content, growing public reputation and defining public image of the family as highly respected.
