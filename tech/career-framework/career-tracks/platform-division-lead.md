@@ -16,6 +16,6 @@
   - Being a partner to product engineering division and product department.
 - Culture
   - Driving technical excellence and continuous improvement among all teams and divisions.
-  - Defining quality standards (non-functional) and processes and making sure they're followed.
+  - Defining quality standards, continuous delivery processes and methodologies and making sure they're followed.
   - Being an ambassador of the platform division, both internally by knowledge sharing and externally by publishing, talking etc.
   - Setting the bar for content, growing public reputation and defining public image of Mews engineering as highly respected.
