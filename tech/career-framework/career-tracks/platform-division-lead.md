@@ -6,7 +6,7 @@
   - Managing platform family leads, defining their goals, responsibilities, providing feedback.
   - Growing, coaching and developing the platform division to scale and meet the business needs.
   - Acting as a hiring manager, recruiting especially senior members of the platform division.
-  - Being the main point of contact representing the platform in cross-organizational and external matters.
+  - Being the main point of contact representing the platform division in cross-organizational and external matters.
 - Product
   - Understanding the high-level picture of the platform usage, products built on top of that and their needs.
   - Defining long term product vision and strategy for the platform engineering division in alignment with company strategy.
