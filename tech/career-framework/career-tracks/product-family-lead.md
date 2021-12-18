@@ -2,22 +2,20 @@
 
 ## Responsibilities
 
-- Leadership:
-  - Leading the product engineering family of multiple engineering teams.
-  - Managing the engineering team leaders, defining their goals, responsibilities, providing feedback.
-  - Being the main point of contact representing the family in cross-organizational technical matters.
-  - Growing, coaching and developing the family to scale and meet the business needs.
-  - Acting as a hiring manager, recruiting especially senior members of the family.
-  - Aiming for stable and predictable teams' composition.
-  - Helping the teams to set the right priorities, keep them focused, minimizing noise.
-- Delivery:
-  - Contributing to strategy and the roadmap of your family.
-  - Understanding the product and defining the best viable adoption/integration option for the product sector.
-  - Defining functional quality standards and making sure they're followed. Adjusting the balance between velocity and quality.
-  - Overseeing the roadmap execution and ensuring successful delivery.
-  - Analyzing the existing delivery efficiency metrics/indicators (time to value/lead time, roadmap contribution, sprint success, epics delivery).
-  - Performing regular team health checks.
-- Partnership:
-  - Being a stakeholder in terms of both business and technical decisions on top of our SaaS architecture.
-  - Cooperating with Product Directors and Product Managers.
-  - Being a partner to your engineering director peers.
+- Leadership
+  - Managing product team leads, defining their goals, responsibilities, providing feedback.
+  - Growing, coaching and developing the product family to scale and meet the business needs.
+  - Acting as a hiring manager, recruiting especially senior members of the product family.
+  - Being the main point of contact representing the product family in cross-organizational matters.
+- Product
+  - Understanding the high-level picture of the product usage, customer use cases and their needs.
+  - Contributing to product vision and product strategy in alignment with company strategy.
+  - Overseeing execution of the strategy by product teams, driving successful delivery of the product team initiaties.
+  - Balancing tempo and quality of delivery, keeping product and technical roadmap contribution healthy.
+  - Being a stakeholder in terms of technical and product decisions impacting the product family.
+  - Driving design or influencing product-wide projects, cooperating with other product family leads.
+  - Being the main partner to product director, product managers and designers within the product family.
+- Culture
+  - Contributing to culture of technical excellence and continuous improvement among all teams and divisions.
+  - Being ambassador of the family, both internally by knowledge sharing and externally by publishing, talking etc.
+  - Setting the bar for content, growing public reputation and defining public image of the family as highly respected.
