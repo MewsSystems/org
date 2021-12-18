@@ -4,7 +4,7 @@
 
 - Leadership
   - Managing platform family leads, defining their goals, responsibilities, providing feedback.
-  - Growing, coaching and developing the platform to scale and meet the business needs.
+  - Growing, coaching and developing the platform division to scale and meet the business needs.
   - Acting as a hiring manager, recruiting especially senior members of the platform division.
   - Being the main point of contact representing the platform in cross-organizational and external matters.
 - Product
