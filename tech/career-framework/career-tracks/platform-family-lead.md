@@ -5,6 +5,7 @@
 - Leadership
   - Managing platform team leads, defining their goals, responsibilities, providing feedback.
   - Growing, coaching and developing the platform family to scale and meet the business needs.
+  - Driving engagement and productivity of the platform family.
   - Acting as a hiring manager, recruiting especially senior members of the platform family.
   - Being the main point of contact representing the family in cross-organizational matters.
 - Product
