@@ -17,6 +17,6 @@
   - Driving design or influencing product-wide projects, cooperating with other product family leads.
   - Being the main partner to product director, product managers and designers within the product family.
 - Culture
-  - Contributing to culture of technical excellence and continuous improvement among all teams and divisions.
+  - Contributing to culture of technical excellence and continuous improvement.
   - Being ambassador of the family, both internally by knowledge sharing and externally by publishing, talking etc.
   - Setting the bar for content, growing public reputation and defining public image of the family as highly respected.
