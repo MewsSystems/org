@@ -2,7 +2,7 @@
 
 ## Responsibilities
 
-- Leadership
+- Management
   - Managing the tech community team, defining their goals, responsibilities, providing feedback.
   - Growing, coaching and developing the team to scale and meet the business needs.
   - Driving engagement and productivity of the team.
