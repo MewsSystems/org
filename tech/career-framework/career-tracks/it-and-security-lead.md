@@ -11,7 +11,7 @@
   - Being the main point of contact representing the IT and security team in cross-organizational matters.
 - Technology
   - Understanding the high-level picture of the organization structure, platform strategy, usage, products built on top of it.
-  - Defining long term product vision and strategy for the team in alignment with company strategy.
+  - Defining long term IT and security vision and strategy for the team in alignment with company strategy.
   - Solutioning team initiatives, driving their delivery in an iterative manner and enuring the technical quality.
   - Driving design or influencing cross-team projects, cooperating with other teams and departments.
   - Overseeing team responsibilities and enuring those are being continuously fulfilled.
