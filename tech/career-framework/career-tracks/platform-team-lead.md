@@ -3,7 +3,7 @@
 ## Responsibilities
 
 - Management
-  - Managing members of the teams, defining their goals, responsibilities, providing feedback.
+  - Managing members of the team, defining their goals, responsibilities, providing feedback.
   - Growing, coaching and developing the team members to help them progress in their careers.
   - Driving engagement and productivity of the team.
   - Acting as a hiring manager, recruiting members of the team.
