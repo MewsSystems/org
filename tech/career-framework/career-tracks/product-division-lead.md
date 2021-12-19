@@ -7,6 +7,7 @@
   - Growing, coaching and developing the product division to scale and meet the business needs.
   - Driving engagement and productivity of the product division.
   - Acting as a hiring manager, recruiting especially senior members of the product division.
+  - Managing financial planning, spending and selection of service providers for the area.
   - Being the main point of contact representing the product division in cross-organizational and external matters.
 - Product
   - Understanding the high-level picture of the product strategy, usage, customer use cases and their needs.
