@@ -27,5 +27,5 @@ As mentioned in the definition of career [progress](../progress.md), different [
 | [Data Analyst](data-analyst.md)                          | 25 | 25 | 25 | 20 | 5  |
 | IT Infrastructure Engineer                               | 25 | 30 | 30 | 10 | 5  |
 | [QA Engineer](qa-engineer.md)                            | 20 | 30 | 20 | 25 | 5  |
-| IT Specialist                                            | 35 | 20 | 25 | 15 | 5  |
+| [IT Specialist](it-specialist.md)                        | 35 | 20 | 25 | 15 | 5  |
 | [Community Coordinator](community-coordinator.md)        | 30 | 25 | 15 | 25 | 5  |
