@@ -11,7 +11,6 @@
 - Product
   - Understanding the high-level picture of the platform strategy, usage, products built on top of it and user needs.
   - Defining long term product vision and strategy for the team in alignment with company strategy.
-  - Driving execution of the team strategy and its initiaties.
   - Solutioning team initiatives, driving their delivery in an iterative manner and enuring the technical quality.
   - Driving design or influencing cross-team projects, cooperating with other team leads.
   - Overseeing team responsibilities and enuring those are being continuously fulfilled.
