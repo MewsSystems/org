@@ -7,6 +7,7 @@
   - Growing, coaching and developing the platform family to scale and meet the business needs.
   - Driving engagement and productivity of the platform family.
   - Acting as a hiring manager, recruiting especially senior members of the platform family.
+  - Managing financial planning, spending and selection of service providers for the area.
   - Being the main point of contact representing the family in cross-organizational matters.
 - Product
   - Understanding the high-level picture of the platform strategy, usage, products built on top of it and user needs.
