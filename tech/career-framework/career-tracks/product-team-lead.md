@@ -11,7 +11,6 @@
 - Product
   - Understanding the high-level picture of the product strategy, usage, customer use cases and their needs.
   - Contributing to product vision and product strategy in alignment with company strategy.
-  - Driving execution of the team strategy and its initiaties.
   - Solutioning team initiatives, driving their delivery in an iterative manner and enuring the technical quality.
   - Driving design or influencing cross-team projects, cooperating with other team leads.
   - Being the main partner to product manager and product designer within the team.
