@@ -2,7 +2,7 @@
 
 ## Responsibilities
 
-- Participating and owning IT projects.
+- Owning or participating in IT projects.
 - Designing and installing new hardware and systems.
 - Training staff on newly installed hardware, systems and tools.
 - Troubleshooting network, system and software issues.
