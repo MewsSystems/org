@@ -7,6 +7,7 @@
   - Growing, coaching and developing the platform division to scale and meet the business needs.
   - Driving engagement and productivity of the platform division.
   - Acting as a hiring manager, recruiting especially senior members of the platform division.
+  - Managing financial planning, spending and selection of service providers for the area.
   - Being the main point of contact representing the platform division in cross-organizational and external matters.
 - Product
   - Understanding the high-level picture of the platform usage, products built on top of that and their needs.
