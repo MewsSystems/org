@@ -26,10 +26,6 @@ For example an engineer with progress P = 2.50 would have grade IC4, minimum nor
 | Platform Family Lead       | 2.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |            |             |
 | Platform Family Lead       | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |            |             |
 | Platform Family Lead       | 4.20  | 5.00  | D2    | Senior Director of Engineering, {Discriminator} |            |             |
-| IT and Security Lead       | 0.00  | 1.40  | S1    | IT and Security Manager                         |            |             |
-| IT and Security Lead       | 1.40  | 2.60  | S2    | IT and Security Manager                         |            |             |
-| IT and Security Lead       | 2.60  | 3.80  | M1    | IT and Security Manager                         |            |             |
-| IT and Security Lead       | 3.80  | 5.00  | M2    | Senior IT and Security Manager                  |            |             |
 | Product Team Lead          | 0.00  | 1.40  | S1    | Engineering Manager                             |            |             |
 | Product Team Lead          | 1.40  | 2.60  | S2    | Engineering Manager                             |            |             |
 | Product Team Lead          | 2.60  | 3.80  | M1    | Engineering Manager                             |            |             |
@@ -38,6 +34,10 @@ For example an engineer with progress P = 2.50 would have grade IC4, minimum nor
 | Platform Team Lead         | 1.40  | 2.60  | S2    | Engineering Manager                             |            |             |
 | Platform Team Lead         | 2.60  | 3.80  | M1    | Engineering Manager                             |            |             |
 | Platform Team Lead         | 3.80  | 5.00  | M2    | Senior Engineering Manager                      |            |             |
+| IT and Security Lead       | 0.00  | 1.40  | S1    | IT and Security Manager                         |            |             |
+| IT and Security Lead       | 1.40  | 2.60  | S2    | IT and Security Manager                         |            |             |
+| IT and Security Lead       | 2.60  | 3.80  | M1    | IT and Security Manager                         |            |             |
+| IT and Security Lead       | 3.80  | 5.00  | M2    | Senior IT and Security Manager                  |            |             |
 | Technical Leader           | 0.00  | 3.80  | IC4   | Staff {Discriminator} Engineer                  |            |             |
 | Technical Leader           | 3.80  | 4.40  | IC5   | Senior Staff {Discriminator} Engineer           |            |             |
 | Technical Leader           | 4.40  | 5.00  | IC5   | Principal {Discriminator} Engineer              |            |             |
