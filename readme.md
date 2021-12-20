@@ -10,7 +10,7 @@ Therefore we decided to **share our practices**, processes, frameworks and guide
 
 ## Contents
 
-This is an ongoing and never ending work in progress... However all the things that we publish here are **being actively used by our employees**, we have no "private" versions of that we'd use internally.
+This is an ongoing and never ending work in progress... However all the things that we publish here are **being actively used by our employees**, we have no "private" versions that we'd use internally.
 
 - Tech
   - [Career Framework](tech/career-framework/readme.md) - Competencies, career tracks, salaries, peformance reviews and personal development.
