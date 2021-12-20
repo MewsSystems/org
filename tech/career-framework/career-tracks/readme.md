@@ -2,7 +2,7 @@
 
 There are multiple different roles and **career tracks** you can pursue, the main distinction is into individual contributor and management and leadership tracks. The main difference obviously is that a manager manages people which by default increases their responsibility. However this does not mean, that in order to progress in your career, you need to become a manager. This is a choice and an **expert individual contributor is as valuable as a senior manager**. We try to reflect this in the compensation as well. Among individual contributor career tracks, you are able to switch pretty much freely. In order to get to one of the management or leadership career tracks, you need to be assigned that role, you cannot choose this on your own :)
 
-Everybody in the tech team has a career track which impacts several things. Your career track defines which competencies you should focus on, which skills and goals are important for your development and what are your responsibilities (defined on detail page of each career track). It also defines what should be your minimal compensation based on your progress. Or vice versa, based on your competencies, you might discover which career track is the most fitting for you.
+Everybody in the tech team has a career track which impacts several things. Your career track defines which competencies you should focus on, which skills and goals are important for your development and what are your **responsibilities** (defined on detail page of each career track). It also defines what should be your minimal compensation based on your progress. Or vice versa, based on your competencies, you might discover which career track is the most fitting for you.
 
 ## Overview
 
