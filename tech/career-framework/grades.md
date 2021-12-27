@@ -16,8 +16,8 @@ For example an engineer with progress P = 2.50 would have grade IC4, minimum nor
 
 | Career Track               | Min P | Max P | Grade | Job Title                                       | Min Salary | Next Salary |
 |----------------------------|-------|-------|-------|-------------------------------------------------|------------|-------------|
-| Product Division Lead      | 3.50  | 5.00  | L1    | VP Engineering, {Discriminator}                 |            |             |
-| Platform Division Lead     | 3.50  | 5.00  | L1    | VP Engineering, {Discriminator}                 |            |             |
+| Product Division Lead      | 3.50  | 5.00  | L1    | VP Engineering, Product                         |            |             |
+| Platform Division Lead     | 3.50  | 5.00  | L1    | VP Engineering, Platform                        |            |             |
 | Product Family Lead        | 0.00  | 2.00  | S2    | Engineering Manager, {Discriminator}            |            |             |
 | Product Family Lead        | 2.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |            |             |
 | Product Family Lead        | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |            |             |
