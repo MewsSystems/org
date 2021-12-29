@@ -13,7 +13,7 @@
   - Understanding the high-level picture of the platform usage, products built on top of that and their needs.
   - Defining long term product vision and strategy for the platform engineering division in alignment with company strategy.
   - Contributing to vision and strategy of platform families, driving design or influencing platform-wide projects.
-  - Overseeing execution of the strategy by platform families and ensuring successful delivery.
+  - Overseeing execution of the strategy by platform families and ensuring successful delivery and achievement of goals and objectives.
   - Being a stakeholder in terms of architectural or strategical technical decisions.
   - Being a partner to product engineering division and product department.
 - Culture
