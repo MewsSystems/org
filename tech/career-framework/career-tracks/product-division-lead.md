@@ -12,7 +12,7 @@
 - Product
   - Understanding the high-level picture of the product strategy, usage, customer use cases and their needs.
   - Contributing to product vision and product strategy in alignment with company strategy.
-  - Overseeing execution of the strategy by product families and ensuring successful delivery.
+  - Overseeing execution of the strategy by product families and ensuring successful delivery and achievement of goals and objectives.
   - Being a stakeholder in terms of organizational and strategical technical decisions.
   - Being the main partner to product department, closely collaborating on processes and methodologies.
   - Contributing to product discovery processes, ensuring successful collaboration with product among the teams.
