@@ -19,7 +19,7 @@ Let's say the goal is **`I want to become better at solving issues at production
 - **Achievable** - Can this goal actually be achieved? Try answering following questions:
   - Why is this a good goal for me? `I am already solving some issues and based on experience of others, this is a reasonable target.`
   - What could get in way? `Others won't let me investigate the issues.`
-  - What resources would help? `Trainings on all abservability tools like New Relic and somebody who will help you with tricky issues.`
+  - What resources would help? `Trainings on all observability tools like New Relic and somebody who will help you with tricky issues.`
 - **Relevant** - How does it relate to your team, company strategy and our business goals?
   - Instead of: `I think it should help.`
   - Try: `We have low bus factor when it comes to solving production issues. Also it is a great way to get debugging skills, which are necessary during quality software development.`
