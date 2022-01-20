@@ -10,6 +10,7 @@
   - Make the successful experiments persistent.
   - Contribute to enhancing our ticketing system, have clear data and procedures, automate.
 - Agility Evangelism:
+  - Collaborate and pair up with other agile coaches to enable and empower an agile mindset within our organization.
   - Be a constant agility learner, share your knowledge actively (groups, slack channels, talks).
   - Be proficient in a multitude of different methodologies.
   - Within the organization, educate and make people adapt to agility principles.
