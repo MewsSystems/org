@@ -38,9 +38,9 @@ For example an engineer with progress P = 2.50 would have grade IC4, minimum nor
 | IT and Security Lead       | 1.40  | 2.60  | S2    | IT and Security Manager                         |            |             |
 | IT and Security Lead       | 2.60  | 3.80  | M1    | IT and Security Manager                         |            |             |
 | IT and Security Lead       | 3.80  | 5.00  | M2    | Senior IT and Security Manager                  |            |             |
-| Technical Leader           | 0.00  | 3.10  | IC4   | Staff {Discriminator} Engineer                  |            |             |
-| Technical Leader           | 3.10  | 4.20  | IC5   | Senior Staff {Discriminator} Engineer           |            |             |
-| Technical Leader           | 4.20  | 5.00  | IC5   | Principal {Discriminator} Engineer              |            |             |
+| Technical Leader           | 0.00  | 3.10  | S2    | Staff {Discriminator} Engineer                  |            |             |
+| Technical Leader           | 3.10  | 4.20  | M1    | Senior Staff {Discriminator} Engineer           |            |             |
+| Technical Leader           | 4.20  | 5.00  | D1    | Principal {Discriminator} Engineer              |            |             |
 | Agile Coach                | 0.00  | 1.40  | IC2   | Agile Coach                                     |            |             |
 | Agile Coach                | 1.40  | 2.60  | IC3   | Agile Coach                                     |            |             |
 | Agile Coach                | 2.60  | 3.80  | IC4   | Senior Agile Coach                              |            |             |
