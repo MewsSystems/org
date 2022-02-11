@@ -4,7 +4,7 @@ We don't have exact salary bands, we define **lower bounds** based on your [ca
 
 ## Normalization
 
-The minimum salary is expressed in a normalized form, which is a monthly salary in Czech Republic in CZK. That is what majority of our team "thinks in", however we are a global company, employing people in multiple countries, paying in different currencies and offering different types of salaries (hourly rate, monthly, annual). So in order to convert between salary and normalized salary or  use the following formulas:
+The minimum salary is expressed in a normalized form, which is a monthly salary in Czech Republic in CZK. That is what majority of our team "thinks in", however we are a global company, employing people in multiple countries, paying in different currencies and offering different types of salaries (hourly rate, monthly, annual). So in order to convert between salary and normalized salary use the following formulas:
 
 - `normalized = salary × period × currency × country`
 - **`salary = normalized / (period × currency × country)`**
