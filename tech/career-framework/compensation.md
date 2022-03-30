@@ -1,6 +1,6 @@
 # Compensation
 
-We don't have exact salary bands, we define **lower bounds** based on your [career track](career-tracks/readme.md) and [grade](grades.md). The main purpose of the lower bounds is to ensure **fairness** across whole tech team and that nobody is underpaid. And as you get better, it also ensures that getting a raise is **guaranteed**. So at the moment, it's mainly an "alerting" mechanism for managers rather than a magic formula that determines the exact salary, especially because we acknowledge that the competencies don not capture full spectrum of stuff that everyone does.
+We don't have exact salary bands, we define **lower bounds** based on your [career track](career-tracks/readme.md) and [grade](grades.md). The main purpose of the lower bounds is to ensure **fairness** across whole tech team and that nobody is underpaid. And as you get better, it also ensures that getting a raise is **guaranteed**. So at the moment, it's mainly an "alerting" mechanism for managers rather than a magic formula that determines the exact salary, especially because we acknowledge that the competencies do not capture full spectrum of stuff that everyone does.
 
 ## Normalization
 
