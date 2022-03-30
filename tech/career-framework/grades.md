@@ -10,78 +10,76 @@ The last piece of the puzzle is grading within career tracks. Career progress is
 - **Min Salary** - Minimum normalized salary awarded to the grade and career track.
 - **Next Salary** - Next minimum normalized salary, corresponding to max progress.
 
-> Please note that currently, we are not publishing the salary columns, those have been redacted out. All the examples involving salaries in these guides are arbitrary and do not represent reality.
-
-For example an engineer with progress P = 2.50 would have grade IC4, minimum normalized salary 80000 and next normalized salary 120000. Their job title would be e.g. "Senior Backend Engineer". Some job titles contain `{Discriminator}` which is a dynamic placeholder that can be replaced with various values, most common ones are "Backend", "Frontend" and "Mobile" in case of IC roles. For management roles, it can be name of family or division. More on how to interpret and work with the normalized salaries can be found in the [compensation](compensation.md) guide.
+For example an engineer with progress P = 2.50 would have grade IC4, minimum normalized salary 98000 and next normalized salary 138000. Their job title would be e.g. "Senior Backend Engineer". Some job titles contain `{Discriminator}` which is a dynamic placeholder that can be replaced with various values, most common ones are "Backend", "Frontend" and "Mobile" in case of IC roles. For management roles, it can be name of family or division. More on how to interpret and work with the normalized salaries can be found in the [compensation](compensation.md) guide.
 
 | Career Track               | Min P | Max P | Grade | Job Title                                       | Min Salary | Next Salary |
 |----------------------------|-------|-------|-------|-------------------------------------------------|------------|-------------|
-| Product Division Lead      | 3.50  | 5.00  | L1    | VP Engineering, Product                         |            |             |
-| Platform Division Lead     | 3.50  | 5.00  | L1    | VP Engineering, Platform                        |            |             |
-| Product Family Lead        | 0.00  | 2.00  | S2    | Engineering Manager, {Discriminator}            |            |             |
-| Product Family Lead        | 2.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |            |             |
-| Product Family Lead        | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |            |             |
-| Product Family Lead        | 4.20  | 5.00  | D2    | Senior Director of Engineering, {Discriminator} |            |             |
-| Platform Family Lead       | 0.00  | 2.00  | S2    | Engineering Manager, {Discriminator}            |            |             |
-| Platform Family Lead       | 2.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |            |             |
-| Platform Family Lead       | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |            |             |
-| Platform Family Lead       | 4.20  | 5.00  | D2    | Senior Director of Engineering, {Discriminator} |            |             |
-| Product Team Lead          | 0.00  | 1.40  | S1    | Engineering Manager                             |            |             |
-| Product Team Lead          | 1.40  | 2.60  | S2    | Engineering Manager                             |            |             |
-| Product Team Lead          | 2.60  | 3.80  | M1    | Engineering Manager                             |            |             |
-| Product Team Lead          | 3.80  | 5.00  | M2    | Senior Engineering Manager                      |            |             |
-| Platform Team Lead         | 0.00  | 1.40  | S1    | Engineering Manager                             |            |             |
-| Platform Team Lead         | 1.40  | 2.60  | S2    | Engineering Manager                             |            |             |
-| Platform Team Lead         | 2.60  | 3.80  | M1    | Engineering Manager                             |            |             |
-| Platform Team Lead         | 3.80  | 5.00  | M2    | Senior Engineering Manager                      |            |             |
-| IT and Security Lead       | 0.00  | 1.40  | S1    | IT and Security Manager                         |            |             |
-| IT and Security Lead       | 1.40  | 2.60  | S2    | IT and Security Manager                         |            |             |
-| IT and Security Lead       | 2.60  | 3.80  | M1    | IT and Security Manager                         |            |             |
-| IT and Security Lead       | 3.80  | 5.00  | M2    | Senior IT and Security Manager                  |            |             |
-| Technical Leader           | 0.00  | 3.10  | S2    | Staff {Discriminator} Engineer                  |            |             |
-| Technical Leader           | 3.10  | 4.20  | M1    | Senior Staff {Discriminator} Engineer           |            |             |
-| Technical Leader           | 4.20  | 5.00  | D1    | Principal {Discriminator} Engineer              |            |             |
-| Agile Coach                | 0.00  | 1.40  | IC2   | Agile Coach                                     |            |             |
-| Agile Coach                | 1.40  | 2.60  | IC3   | Agile Coach                                     |            |             |
-| Agile Coach                | 2.60  | 3.80  | IC4   | Senior Agile Coach                              |            |             |
-| Agile Coach                | 3.80  | 5.00  | IC5   | Staff Agile Coach                               |            |             |
-| Community Manager          | 0.00  | 1.40  | S1    | Community Manager                               |            |             |
-| Community Manager          | 1.40  | 2.60  | S2    | Community Manager                               |            |             |
-| Community Manager          | 2.60  | 3.80  | M1    | Community Manager                               |            |             |
-| Community Manager          | 3.80  | 5.00  | M2    | Senior Community Manager                        |            |             |
-| Engineer                   | 0.00  | 1.20  | IC2   | {Discriminator} Engineer                        |            |             |
-| Engineer                   | 1.20  | 2.40  | IC3   | {Discriminator} Engineer                        |            |             |
-| Engineer                   | 2.40  | 3.60  | IC4   | Senior {Discriminator} Engineer                 |            |             |
-| Engineer                   | 3.60  | 5.00  | IC5   | Staff {Discriminator} Engineer                  |            |             |
-| Data Scientist             | 0.00  | 1.20  | IC2   | Data Scientist                                  |            |             |
-| Data Scientist             | 1.20  | 2.40  | IC3   | Data Scientist                                  |            |             |
-| Data Scientist             | 2.40  | 3.60  | IC4   | Senior Data Scientist                           |            |             |
-| Data Scientist             | 3.60  | 5.00  | IC5   | Staff Data Scientist                            |            |             |
-| Product Security Engineer  | 0.00  | 1.20  | IC2   | Product Security Engineer                       |            |             |
-| Product Security Engineer  | 1.20  | 2.40  | IC3   | Product Security Engineer                       |            |             |
-| Product Security Engineer  | 2.40  | 3.60  | IC4   | Senior Product Security Engineer                |            |             |
-| Product Security Engineer  | 3.60  | 5.00  | IC5   | Staff Product Security Engineer                 |            |             |
-| IT Security Engineer       | 0.00  | 1.20  | IC2   | IT Security Engineer                            |            |             |
-| IT Security Engineer       | 1.20  | 2.40  | IC3   | IT Security Engineer                            |            |             |
-| IT Security Engineer       | 2.40  | 3.60  | IC4   | Senior IT Security Engineer                     |            |             |
-| IT Security Engineer       | 3.60  | 5.00  | IC5   | Staff IT Security Engineer                      |            |             |
-| Data Analyst               | 0.00  | 1.20  | IC2   | Data Analyst                                    |            |             |
-| Data Analyst               | 1.20  | 2.40  | IC3   | Data Analyst                                    |            |             |
-| Data Analyst               | 2.40  | 3.60  | IC4   | Senior Data Analyst                             |            |             |
-| Data Analyst               | 3.60  | 5.00  | IC5   | Staff Data Analyst                              |            |             |
-| IT Infrastructure Engineer | 0.00  | 1.20  | IC2   | IT Infrastructure Engineer                      |            |             |
-| IT Infrastructure Engineer | 1.20  | 2.40  | IC3   | IT Infrastructure Engineer                      |            |             |
-| IT Infrastructure Engineer | 2.40  | 3.60  | IC4   | Senior IT Infrastructure Engineer               |            |             |
-| IT Infrastructure Engineer | 3.60  | 5.00  | IC5   | Staff IT Infrastructure Engineer                |            |             |
-| QA Engineer                | 0.00  | 1.20  | IC1   | QA Engineer                                     |            |             |
-| QA Engineer                | 1.20  | 2.40  | IC2   | QA Engineer                                     |            |             |
-| QA Engineer                | 2.40  | 3.60  | IC3   | Senior QA Engineer                              |            |             |
-| QA Engineer                | 3.60  | 5.00  | IC4   | Staff QA Engineer                               |            |             |
-| IT Specialist              | 0.00  | 1.20  | IC1   | IT Specialist                                   |            |             |
-| IT Specialist              | 1.20  | 2.40  | IC2   | IT Specialist                                   |            |             |
-| IT Specialist              | 2.40  | 3.60  | IC3   | IT Specialist                                   |            |             |
-| IT Specialist              | 3.60  | 5.00  | IC4   | Senior IT Specialist                            |            |             |
-| Community Coordinator      | 0.00  | 1.20  | IC1   | Community Coordinator                           |            |             |
-| Community Coordinator      | 1.20  | 2.40  | IC2   | Community Coordinator                           |            |             |
-| Community Coordinator      | 2.40  | 3.60  | IC3   | Community Coordinator                           |            |             |
-| Community Coordinator      | 3.60  | 5.00  | IC4   | Senior Community Coordinator                    |            |             |
+| Product Division Lead      | 3.50  | 5.00  | L1    | VP Engineering, Product                         |     173000 |      288000 |
+| Platform Division Lead     | 3.50  | 5.00  | L1    | VP Engineering, Platform                        |     173000 |      288000 |
+| Product Family Lead        | 0.00  | 2.00  | S2    | Engineering Manager, {Discriminator}            |      81000 |      115000 |
+| Product Family Lead        | 2.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |     115000 |      150000 |
+| Product Family Lead        | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |     150000 |      184000 |
+| Product Family Lead        | 4.20  | 5.00  | D2    | Senior Director of Engineering, {Discriminator} |     184000 |      230000 |
+| Platform Family Lead       | 0.00  | 2.00  | S2    | Engineering Manager, {Discriminator}            |      81000 |      115000 |
+| Platform Family Lead       | 2.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |     115000 |      150000 |
+| Platform Family Lead       | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |     150000 |      184000 |
+| Platform Family Lead       | 4.20  | 5.00  | D2    | Senior Director of Engineering, {Discriminator} |     184000 |      230000 |
+| Product Team Lead          | 0.00  | 1.40  | S1    | Engineering Manager                             |      69000 |       92000 |
+| Product Team Lead          | 1.40  | 2.60  | S2    | Engineering Manager                             |      92000 |      121000 |
+| Product Team Lead          | 2.60  | 3.80  | M1    | Engineering Manager                             |     121000 |      161000 |
+| Product Team Lead          | 3.80  | 5.00  | M2    | Senior Engineering Manager                      |     161000 |      207000 |
+| Platform Team Lead         | 0.00  | 1.40  | S1    | Engineering Manager                             |      69000 |       92000 |
+| Platform Team Lead         | 1.40  | 2.60  | S2    | Engineering Manager                             |      92000 |      121000 |
+| Platform Team Lead         | 2.60  | 3.80  | M1    | Engineering Manager                             |     121000 |      161000 |
+| Platform Team Lead         | 3.80  | 5.00  | M2    | Senior Engineering Manager                      |     161000 |      207000 |
+| IT and Security Lead       | 0.00  | 1.40  | S1    | IT and Security Manager                         |      81000 |      115000 |
+| IT and Security Lead       | 1.40  | 2.60  | S2    | IT and Security Manager                         |     115000 |      150000 |
+| IT and Security Lead       | 2.60  | 3.80  | M1    | IT and Security Manager                         |     150000 |      184000 |
+| IT and Security Lead       | 3.80  | 5.00  | M2    | Senior IT and Security Manager                  |     184000 |      230000 |
+| Technical Leader           | 0.00  | 3.10  | S2    | Staff {Discriminator} Engineer                  |     115000 |      150000 |
+| Technical Leader           | 3.10  | 4.20  | M1    | Senior Staff {Discriminator} Engineer           |     150000 |      184000 |
+| Technical Leader           | 4.20  | 5.00  | D1    | Principal {Discriminator} Engineer              |     184000 |      230000 |
+| Agile Coach                | 0.00  | 1.40  | IC2   | Agile Coach                                     |      69000 |       92000 |
+| Agile Coach                | 1.40  | 2.60  | IC3   | Agile Coach                                     |      92000 |      121000 |
+| Agile Coach                | 2.60  | 3.80  | IC4   | Senior Agile Coach                              |     121000 |      161000 |
+| Agile Coach                | 3.80  | 5.00  | IC5   | Staff Agile Coach                               |     161000 |      207000 |
+| Community Manager          | 0.00  | 1.40  | S1    | Community Manager                               |      46000 |       69000 |
+| Community Manager          | 1.40  | 2.60  | S2    | Community Manager                               |      69000 |       98000 |
+| Community Manager          | 2.60  | 3.80  | M1    | Community Manager                               |      98000 |      138000 |
+| Community Manager          | 3.80  | 5.00  | M2    | Senior Community Manager                        |     138000 |      184000 |
+| Engineer                   | 0.00  | 1.20  | IC2   | {Discriminator} Engineer                        |      46000 |       69000 |
+| Engineer                   | 1.20  | 2.40  | IC3   | {Discriminator} Engineer                        |      69000 |       98000 |
+| Engineer                   | 2.40  | 3.60  | IC4   | Senior {Discriminator} Engineer                 |      98000 |      138000 |
+| Engineer                   | 3.60  | 5.00  | IC5   | Staff {Discriminator} Engineer                  |     138000 |      184000 |
+| Product Security Engineer  | 0.00  | 1.20  | IC2   | Product Security Engineer                       |      46000 |       69000 |
+| Product Security Engineer  | 1.20  | 2.40  | IC3   | Product Security Engineer                       |      69000 |       98000 |
+| Product Security Engineer  | 2.40  | 3.60  | IC4   | Senior Product Security Engineer                |      98000 |      138000 |
+| Product Security Engineer  | 3.60  | 5.00  | IC5   | Staff Product Security Engineer                 |     138000 |      184000 |
+| Data Scientist             | 0.00  | 1.20  | IC2   | Data Scientist                                  |      46000 |       69000 |
+| Data Scientist             | 1.20  | 2.40  | IC3   | Data Scientist                                  |      69000 |       98000 |
+| Data Scientist             | 2.40  | 3.60  | IC4   | Senior Data Scientist                           |      98000 |      138000 |
+| Data Scientist             | 3.60  | 5.00  | IC5   | Staff Data Scientist                            |     138000 |      184000 |
+| IT Security Engineer       | 0.00  | 1.20  | IC2   | IT Security Engineer                            |      46000 |       69000 |
+| IT Security Engineer       | 1.20  | 2.40  | IC3   | IT Security Engineer                            |      69000 |       98000 |
+| IT Security Engineer       | 2.40  | 3.60  | IC4   | Senior IT Security Engineer                     |      98000 |      138000 |
+| IT Security Engineer       | 3.60  | 5.00  | IC5   | Staff IT Security Engineer                      |     138000 |      184000 |
+| Data Analyst               | 0.00  | 1.20  | IC2   | Data Analyst                                    |      40000 |       63000 |
+| Data Analyst               | 1.20  | 2.40  | IC3   | Data Analyst                                    |      63000 |       92000 |
+| Data Analyst               | 2.40  | 3.60  | IC4   | Senior Data Analyst                             |      92000 |      127000 |
+| Data Analyst               | 3.60  | 5.00  | IC5   | Staff Data Analyst                              |     127000 |      161000 |
+| IT Infrastructure Engineer | 0.00  | 1.20  | IC2   | IT Infrastructure Engineer                      |      40000 |       63000 |
+| IT Infrastructure Engineer | 1.20  | 2.40  | IC3   | IT Infrastructure Engineer                      |      63000 |       92000 |
+| IT Infrastructure Engineer | 2.40  | 3.60  | IC4   | Senior IT Infrastructure Engineer               |      92000 |      127000 |
+| IT Infrastructure Engineer | 3.60  | 5.00  | IC5   | Staff IT Infrastructure Engineer                |     127000 |      161000 |
+| QA Engineer                | 0.00  | 1.20  | IC1   | QA Engineer                                     |      35000 |       46000 |
+| QA Engineer                | 1.20  | 2.40  | IC2   | QA Engineer                                     |      46000 |       63000 |
+| QA Engineer                | 2.40  | 3.60  | IC3   | Senior QA Engineer                              |      63000 |       92000 |
+| QA Engineer                | 3.60  | 5.00  | IC4   | Staff QA Engineer                               |      92000 |      127000 |
+| IT Specialist              | 0.00  | 1.20  | IC1   | IT Specialist                                   |      35000 |       46000 |
+| IT Specialist              | 1.20  | 2.40  | IC2   | IT Specialist                                   |      46000 |       63000 |
+| IT Specialist              | 2.40  | 3.60  | IC3   | IT Specialist                                   |      63000 |       92000 |
+| IT Specialist              | 3.60  | 5.00  | IC4   | Senior IT Specialist                            |      92000 |      127000 |
+| Community Coordinator      | 0.00  | 1.20  | IC1   | Community Coordinator                           |      35000 |       46000 |
+| Community Coordinator      | 1.20  | 2.40  | IC2   | Community Coordinator                           |      46000 |       63000 |
+| Community Coordinator      | 2.40  | 3.60  | IC3   | Community Coordinator                           |      63000 |       92000 |
+| Community Coordinator      | 3.60  | 5.00  | IC4   | Senior Community Coordinator                    |      92000 |      127000 |
