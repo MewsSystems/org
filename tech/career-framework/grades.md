@@ -32,6 +32,10 @@ For example an engineer with progress P = 2.50 would have grade IC4, minimum nor
 | Platform Team Lead         | 1.40  | 2.60  | S2    | Engineering Manager                             |      92000 |      121000 |
 | Platform Team Lead         | 2.60  | 3.80  | M1    | Engineering Manager                             |     121000 |      161000 |
 | Platform Team Lead         | 3.80  | 5.00  | M2    | Senior Engineering Manager                      |     161000 |      207000 |
+| Data Science Team Lead     | 0.00  | 1.40  | S1    | Team Lead, Data Science                         |      69000 |       92000 |
+| Data Science Team Lead     | 1.40  | 2.60  | S2    | Team Lead, Data Science                         |      92000 |      121000 |
+| Data Science Team Lead     | 2.60  | 3.80  | M1    | Team Lead, Data Science                         |     121000 |      161000 |
+| Data Science Team Lead     | 3.80  | 5.00  | M2    | Senior Team Lead, Data Science                  |     161000 |      207000 |
 | IT and Security Lead       | 0.00  | 1.40  | S1    | IT and Security Manager                         |      81000 |      115000 |
 | IT and Security Lead       | 1.40  | 2.60  | S2    | IT and Security Manager                         |     115000 |      150000 |
 | IT and Security Lead       | 2.60  | 3.80  | M1    | IT and Security Manager                         |     150000 |      184000 |
