@@ -16,6 +16,7 @@ As mentioned in the definition of career [progress](../progress.md), different [
 | [Platform Family Lead](platform-family-lead.md)                          | 5  | 30 | 25 | 20 | 20 |
 | [Product Engineering Manager](product-engineering-manager.md)            | 30 | 10 | 20 | 20 | 20 |
 | [Platform Engineering Manager](platform-engineering-manager.md)          | 20 | 20 | 20 | 20 | 20 |
+| [Platform Engineernig Team Lead](platform-engineering-team-lead.md)      | 25 | 25 | 25 | 15 | 10 |
 | [IT and Security Lead](it-and-security-lead.md)                          | 10 | 25 | 25 | 20 | 20 |
 | [Technical Leader](technical-leader.md)                                  | 5  | 30 | 30 | 15 | 20 |
 | [Agile Coach](agile-coach.md)                                            | 10 | 30 | 10 | 25 | 25 |
