@@ -1,4 +1,4 @@
-# Platform Team Lead
+# Platform Engineering Manager
 
 ## Responsibilities
 
