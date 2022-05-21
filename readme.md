@@ -14,4 +14,5 @@ This is an ongoing and never ending work in progress... However all the things t
 
 - Tech
   - [Career Framework](tech/career-framework/readme.md) - Competencies, career tracks, salaries, peformance reviews and personal development.
-- Finance
+- Community
+  - [Blog Guide](community/external/blog-guide.md) - The ultimate guide to writing a blog post.
