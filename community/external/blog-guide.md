@@ -2,15 +2,15 @@
 
 This guide was created in cooperation with the copy editor of our [Mews Developers Blog](developers.mews.com/blog), the amazing [Alaa El-Shaarawy](https://www.linkedin.com/in/alaa-elshaarawi/). It is aimed to help all the people who are write blog posts (or are now thinking about it) to make the best out of it. If you're not sure yet, do it, it's worth it.
 
-1.  [First off - why should you want to write a blog post?](#first-off---why-should-you-want-to-write-a-blog-post)
-2.  [Have a clear workflow](#have-a-clear-workflow)
-3.  [Create a clear plan](#create-a-clear-plan)
-4.  [Build a solid outline (and don't forget about the SEO)](#build-a-solid-outline-and-dont-forget-about-seo)
-5.  [Hook your reader and keep them reading till the end!](#hook-your-reader-and-keep-them-reading-till-the-end)
-6.  [Pen your first draft: and don't sweat the small stuff, yet](#pen-your-first-draft-and-dont-sweat-the-small-stuff-yet)
-7.  [Three step revision: turn a good first draft into a great one](#three-step-revision-turn-a-good-first-draft-into-a-great-one)
-8.  [Congratulations, now it's time to hit publish!](#congratulations-now-its-time-to-hit-publish)
-9.  [Related reading](#related-reading)
+1. [First off - why should you want to write a blog post?](#first-off---why-should-you-want-to-write-a-blog-post)
+2. [Have a clear workflow](#have-a-clear-workflow)
+3. [Create a clear plan](#create-a-clear-plan)
+4. [Build a solid outline (and don't forget about the SEO)](#build-a-solid-outline-and-dont-forget-about-seo)
+5. [Hook your reader and keep them reading till the end!](#hook-your-reader-and-keep-them-reading-till-the-end)
+6. [Pen your first draft: and don't sweat the small stuff, yet](#pen-your-first-draft-and-dont-sweat-the-small-stuff-yet)
+7. [Three step revision: turn a good first draft into a great one](#three-step-revision-turn-a-good-first-draft-into-a-great-one)
+8. [Congratulations, now it's time to hit publish!](#congratulations-now-its-time-to-hit-publish)
+9. [Related reading](#related-reading)
 
 ## First off - why should you want to write a blog post?
 
