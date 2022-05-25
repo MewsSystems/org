@@ -1,6 +1,6 @@
 # The ultimate guide to writing a blog post
 
-This guide was created in cooperation with the copy editor of our [Mews Developers Blog](developers.mews.com/blog), the amazing [Alaa El-Shaarawy](https://www.linkedin.com/in/alaa-elshaarawi/). It is aimed to help all the people who are write blog posts (or are now thinking about it) to make the best out of it. If you're not sure yet, do it, it's worth it.
+This guide was created in cooperation with the copy editor of our [Mews Developers Blog](developers.mews.com/blog), the amazing [Alaa El-Shaarawy](https://www.linkedin.com/in/alaa-elshaarawi/). It aims to help all of you who are writing blog posts (or are now thinking about it) to make the most of it. And for those of you who aren't sure yet, trust us, just go for it and you'll find it's definitely worth it.
 
 1. [First off - why should you want to write a blog post?](#first-off---why-should-you-want-to-write-a-blog-post)
 2. [Have a clear workflow](#have-a-clear-workflow)
@@ -103,7 +103,7 @@ Now, how do we want to format all this so that it both attracts your reader to t
 
 Besides engaging writing, providing a good user experience is one of the best things you can do for your blog post. Not only does this keep your reader interested, but it's also a great way to make your text SEO friendly. How can you make this happen?  By breaking up the page, that's how! This makes your post more readable, attractive, and welcoming, as well as leaves empty spaces so your readers' eyes can take a rest. Some ways to do this, you ask?
 
-- **Subheadings** above each of your main points to guide your readers and let them know what to expect in each section. This way, they can conveniently scan the page for information. These also make it easier for you to write your post by breaking it into **bite-sized sections**. Make sure you follow semantical [hierarchy of headings](https://webaim.org/techniques/semanticstructure/#headings).
+- **Subheadings** above each of your main points to guide your readers and let them know what to expect in each section. This way, they can conveniently scan the page for information. These also make it easier for you to write your post by breaking it into **bite-sized sections**. Make sure you follow a semantic [hierarchy of headings](https://webaim.org/techniques/semanticstructure/#headings).
 - **Short paragraphs**, which are more inviting than big blocks of text - include suitable [transitional phrases](https://www.grammarly.com/blog/transition-words-phrases/) between each paragraph to further guide your readers.
 - Bullet points, quotes, infographics, code snippets, etc. to make your post more digestible.
 - The right **images** help break up the page while making your post more vibrant and memorable.
@@ -179,7 +179,7 @@ Now it's time to have a peer or colleague go over your post. Someone who underst
 
 ### Part III - professional revision
 
-The final step is having a professional revise and edit your post. Let them know any lingering questions you might have and direct them towards your specific goals. This will help you put the final touches on your post and make sure your piece is ready to go live.
+The final step is having a professional revise and edit your post. Let them know any lingering questions you might have and direct them towards your specific goals. This will help you put the final touches on your post and make sure your piece is ready to go live. Pay attention to your mistakes here so you can learn from them.
 
 ## Congratulations, now it's time to hit publish!
 
