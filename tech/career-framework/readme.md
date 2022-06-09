@@ -20,11 +20,13 @@ In order to determine all of this and **ensure that everyone progresses forward*
 
 There are several important events during the year that are focused on career and personal development. You'll be notified about them well in advance:
 
-- **January** - [Performance Catchup](performance-catchups.md)
+- **January** - [Performance Review 2/2](performance-reviews.md)
 - **March** - [Performance Catchup](performance-catchups.md)
 - **May** - [Performance Catchup](performance-catchups.md)
-- **June** - [Performance Review](performance-reviews.md)
-- **July** - [Performance Catchup](performance-catchups.md)
+- **June** - [Performance Review 1/2](performance-reviews.md)
+- **July** - [Performance Review 2/2](performance-reviews.md)
 - **September** - [Performance Catchup](performance-catchups.md)
 - **November** - [Performance Catchup](performance-catchups.md)
-- **December** - [Performance Review](performance-reviews.md)
+- **December** - [Performance Review 1/2](performance-reviews.md)
+
+We are aiming to run the performance review top-down to keep it in sync between the branches of the department tree structure. Therfore the Performance reviews will be happening in two consecutive months to aim for quality over quantity. In reality it means the CTO, Division Leads & Family Leads will conduct their performance reviews with their direct reports during December/June. Team Leads will conduct performance review with their direct reports during the January/July.
