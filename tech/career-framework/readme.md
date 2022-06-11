@@ -20,11 +20,13 @@ In order to determine all of this and **ensure that everyone progresses forward*
 
 There are several important events during the year that are focused on career and personal development. You'll be notified about them well in advance:
 
-- **January** - [Performance Catchup](performance-catchups.md)
+- **January** - [Performance Review 2/2](performance-reviews.md)
 - **March** - [Performance Catchup](performance-catchups.md)
 - **May** - [Performance Catchup](performance-catchups.md)
-- **June** - [Performance Review](performance-reviews.md)
-- **July** - [Performance Catchup](performance-catchups.md)
+- **June** - [Performance Review 1/2](performance-reviews.md)
+- **July** - [Performance Review 2/2](performance-reviews.md)
 - **September** - [Performance Catchup](performance-catchups.md)
 - **November** - [Performance Catchup](performance-catchups.md)
-- **December** - [Performance Review](performance-reviews.md)
+- **December** - [Performance Review 1/2](performance-reviews.md)
+
+The performance reviews are being done in a top-down manner to keep the expectations and requirements as synchronized as possible among the orgchart branches. Therfore we allocate two months for the performance reviews. Usually the management layers are done during the first month, individual contributor performance reviews the second month.
