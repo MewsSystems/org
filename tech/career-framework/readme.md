@@ -29,4 +29,4 @@ There are several important events during the year that are focused on career an
 - **November** - [Performance Catchup](performance-catchups.md)
 - **December** - [Performance Review 1/2](performance-reviews.md)
 
-We are aiming to run the performance review top-down to keep it in sync between the branches of the department tree structure. Therfore the Performance reviews will be happening in two consecutive months to aim for quality over quantity. In reality it means the CTO, Division Leads & Family Leads will conduct their performance reviews with their direct reports during December/June. Team Leads will conduct performance review with their direct reports during the January/July.
+The performance reviews are being done in a top-down manner to keep the expectations and requirements as synchronized as possible among the orgchart branches. Therfore we allocate two months for the performance reviews. Usually the management layers are done during the first month, individual contributor performance reviews the second month.
