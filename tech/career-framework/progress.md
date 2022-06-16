@@ -1,6 +1,6 @@
 # Progress
 
-A competency consists of levels and skills. There are many **skills**, for example "You test your work following relevant examples." That is a skill within the delivery competency on the beginner level. For each skill you should asses whether you posses the skill using the following scores:
+A competency consists of individual skills that are organized into multiple levels. There are many **skills**, for example "You test your work following relevant examples." That is a skill within the delivery competency on the beginner level. For each skill you should asses whether you posses the skill using the following scores:
 
 - **0 - Nope** - Not at all, meaning that you don't possess the skill.
 - **1 - Somewhat** - Having the skill somewhat, but not fully there yet or not showing that consistently.
