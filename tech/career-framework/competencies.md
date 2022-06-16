@@ -10,7 +10,7 @@ It is supposed to be aspirational, so if you're not sure, put in lower score or 
 - 💬 **Communication** - Collaboration with others, documentation, relationships with others.
 - 🎖️ **Leadership** - Responsibility, decision making, mentoring, setting an example.
 
-## Delivery
+## 🚚 Delivery
 
 - **Beginner**
 - **Intermediate**
@@ -18,7 +18,7 @@ It is supposed to be aspirational, so if you're not sure, put in lower score or 
 - **Expert**
 - **Leading Expert**
 
-## Domain Expertise
+## 📚 Domain Expertise
 
 - **Beginner**
 - **Intermediate**
@@ -26,7 +26,7 @@ It is supposed to be aspirational, so if you're not sure, put in lower score or 
 - **Expert**
 - **Leading Expert**
 
-## Problem Solving
+## 💡 Problem Solving
 
 - **Beginner**
   - You're able to resolve issues in familiar code or systems easily, and you can debug and fix unfamiliar code with some effort and guidance.
@@ -59,7 +59,7 @@ It is supposed to be aspirational, so if you're not sure, put in lower score or 
   - You are a leader who provides actionable direction to teams in the face of complex problems involving multiple stakeholders.
   - You create and publish new technologies or practices that solve industry-wide problems.
 
-## Communication
+## 💬 Communication
 
 - **Beginner**
 - **Intermediate**
@@ -67,7 +67,7 @@ It is supposed to be aspirational, so if you're not sure, put in lower score or 
 - **Expert**
 - **Leading Expert**
 
-## Leadership
+## 🎖️ Leadership
 
 - **Beginner**
 - **Intermediate**
