@@ -64,8 +64,25 @@ Analysis, creativity, breakdown of problems, architecture of solutions.
 Collaboration with others, documentation, relationships with others.
 
 - **Beginner**
+  - You are able to clearly communicate in English and articulate questions that others will understand.
+  - You collaborate with team members in various roles (e.g. other engineers, PMs, designers) in regular manner.
+  - You document the important learnings, practices and solutions in a way that helps others when they encounter similar issues.
+  - You actively participate in internal meetings of your team and not just passively listen.
 - **Intermediate**
+  - Your written communication is concise and clear. You cope well with the async / remote environment.
+  - You write documentation related to your work that is well-structured, clear and easy to follow.
+  - You collaborate well with team members a mentee. You are able to help more junior colleagues, e.g. by being their buddy.
+  - You are able to take in vague requirements and ask the right questions to ensure they are clarified.
+  - You have a sense for when and how to appropriately and effectively offer feedback on work. You provide the feedback in a respectful and constructive manner directly to the person, e.g. in code reviews.
+  - You seek out and receive constructive criticism well and do not express territorialism over your work.
+  - You listen when others are speaking and make space for your colleagues to share their thoughts.
 - **Advanced**
+  - You make sure the right people have the right context, not only in case of narrow projects you are working on but also larger initiatives. E.g. by documenting those or communicating that on various knowledge sharing sessions.
+  - You collaborate well with people outside of your team or outside of R&D. You are able to handle cross-team discussions and escalations.
+  - You quickly extract core issues from discussions and meetings. Your presence makes meetings more productive.
+  - You are able to give and receive constructive feedback on all aspects, not only work but also behavior, presence, communication of others. And you both give and receive feedback clearly and with empathy.
+  - You explain technical concepts clearly and with patience, and adjust your communication based on the audience.
+  - You offer help when asked, but you also know when to step back and let others work things out on their own. You ensure that everyone you're working with gets a chance to share their thoughts and that they're heard.
 - **Expert**
 - **Leading Expert**
 
