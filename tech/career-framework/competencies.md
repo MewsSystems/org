@@ -91,7 +91,22 @@ Collaboration with others, documentation, relationships with others.
 Responsibility, decision making, mentoring, setting an example.
 
 - **Beginner**
+  - You accept direction and guidance well. You help your leader by being a good follower, either by challenging the decision or by disagreeing, commiting and moving on.
+  - You are transparent about what you do not understand and need help with, and communicate this to the appropriate parties (e.g. your manager). You are comfortable with admitting and communicating your mistakes, you are not hiding those.
+  - You seek feedback often with goal to continuously improve.
+  - You are self-motivated in tackling your team's projects.
 - **Intermediate**
+  - You are able to motivate and lead more junior peers in your team.
+  - You proactively act on the received feedback and put actionable steps in place to address it.
+  - You help create a safe environment for others  by being respectful and aware of cultural differences. You embody the Mews values.
+  - You take on small roles that involve direct leadership (being a mentor, running a working group, small initiative or project).
+  - You are generous with your time and make sure you are available for others. You are not perceived as always busy.
 - **Advanced**
+  - You take action or delegate when there is a problem without a clear owner. You don't shy away from being the accountable party.
+  - You inspire and motivate others to tackle projects.
+  - You foster an environment where people feel comfortable asking questions. You advocate for learning, not blaming. 
+  - You are decisive, and your good business sense and technical depth are an asset to the decision making process. You are democratic when alignment is required, you are more authoritative when time/urgency is key.
+  - You turn ideas into opportunities which can be later turned into meaningful tracks of work and picked up by your teammates or other teams. And ultimately those ideas result in success.
+  - You often take on roles involving direct leadership (for example, coordinating a long-term project or initiative).
 - **Expert**
 - **Leading Expert**
