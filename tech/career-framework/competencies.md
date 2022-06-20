@@ -9,8 +9,26 @@ It is supposed to be aspirational, so if you're not sure, put in lower score or 
 Planning, prioritization, predictability, continuous delivery, testing and monitoring.
 
 - **Beginner**
+  - You understand scope of work before taking on tasks.
+  - You verify your output by self-reviewing, self-testing in order to minimize issues found by others.
+  - You follow-up on your work after it's released and quickly address issues as they arise.
+  - You collect and incorporate feedback (solutioning before start, code reviews, gathering buy-in) to ship your work.
+  - You're comfortable using the tools relevant to your domain, and your development environment enables - you to be productive.
+  - You ship complete solutions, but release them in small, safe patches.
 - **Intermediate**
+  - You estimate accurate timelines for tasks and deliver work at a steady, predictable pace to hit your deadlines.
+  - You effectively use a variety of testing methods, verification practices and monitoring tools to ensure the quality and production readiness of your work before and after release.
+  - You build solutions that are simple yet universal, take context into account to apply right level of abstraction to avoid over engineering.
+  - You identify important product, technical or design tradeoffs. You don't blindly accept assignments, you negotiate and discuss them with relevant stakeholders.
+  - You're considering the effect your work has outside your team. You assess how your solutions will impact overall infrastructure, product and other teams.
+  - You follow Mews best practices, get up to speed with newly introduced ones and apply them in your work (idiomatic code, code style, architecture practices, way of working of the team etc).
 - **Advanced**
+  - You collaboratively roadmap large tracks of work with reliable estimates of time, effort, and risk, and you help ensure your team can hit deadlines.
+  - You communicate with teammates, collaborators, and stakeholders, and you take responsibility for your plans, both when they're on track and when they aren't.
+  - You ensure quality of your work and minimize potential impact if things go wrong. You ensure all non-functional requirements are met as well (security, performance, resiliency). You actively utilize practices like feature flags, observability tools, extended testing using relevant product data and use cases etc.
+  - You deliver initiatives end to end, including post-release monitoring. You take ownership of the initiative and action all issues in timely manner.
+  - You have awareness of other initiatives in related teams, how they impact your work and how your work may impact those. You follow plans and progress in those teams in order to deliver your initiatives smoothly.
+  - You're able to identify when best practices and processes are negatively impacting your delivery. You are able to resolve those cases by either proposing changes to the best practices or carefully bypassing them.
 - **Expert**
 - **Leading Expert**
 
@@ -19,8 +37,21 @@ Planning, prioritization, predictability, continuous delivery, testing and monit
 Knowledge of your domain, tools, business, product.
 
 - **Beginner**
+  - You ask questions to support your own continuous learning.
+  - You learn from your own research and from those around you.
+  - You seize opportunities to increase your knowledge. You join workshops, guild meetings, you consume online resources and actively participate in other learning sources.
+  - You understand basics of tools which are relevant to your work and how to use them.
 - **Intermediate**
+  - You understand the technical concepts necessary to do your job effectively and are aware of industry trends in your domain.
+  - You have a good sense of where to find answers, you are able to consult all documentation and knowledge sources. You are able to help yourself in many cases, you are less reliant on others.
+  - You have a good understanding of all tools Mews uses. You understand how they work, and the sorts of situations and problems for which they're useful. You're effective in using them.
+  - You have in depth knowledge of immediate systems you work on and tools you work with. And you have some knowledge of adjacent systems.
+  - You understand why your work is important to the business and your users, and how it relates to your team's goals.
 - **Advanced**
+  - Your specialized knowledge as well as your business and technical acumen contribute to success of projects.
+  - You can utilize your business, technical and tooling knowledge to help others even outside of your team if needed. You are able to mentor individuals on specific topics and teach them.
+  - You have strong, well-founded opinions about how to build software in your domain, but you're adaptable and open to new ideas.
+  - You closely follow industry trends relevant to your domain and you suggest how Mews could utilize them by e.g. opening RFC or sharing in relevant group.
 - **Expert**
 - **Leading Expert**
 
