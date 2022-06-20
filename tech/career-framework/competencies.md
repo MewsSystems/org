@@ -132,8 +132,14 @@ Collaboration with others, documentation, relationships with others.
   - You explain technical concepts clearly and with patience, and adjust your communication based on the audience.
   - You offer help when asked, but you also know when to step back and let others work things out on their own. You ensure that everyone you're working with gets a chance to share their thoughts and that they're heard.
 - **Expert**
+  - You make yourself accountable for the communication, coordination and documentation of big projects spanning many teams or departments.
+  - Your documentation ensures that practices/processes/systems/architectures can be maintained or built upon by people who were not originally involved in building them without you getting involved deeply.
+  - You help disparate groups of people collaborate, identify common goals, and reach consensus. Your facilitation skills keep conversations productive and respectful.
+  - You create spaces and channels that improve cross-team and inter-departmental communication.
 - **Leading Expert**
-
+  - You've made significant changes to how Mews handles documentation, facilitation, or collaboration that has improved the functioning of R&D.
+  - You educate people on the topic of communication through mentoring, public speaking, blog posts etc.
+  - Your presence and example has a strong, positive influence on Mews's working environment.
 ## 🎖️ Leadership
 
 Responsibility, decision making, mentoring, setting an example.
