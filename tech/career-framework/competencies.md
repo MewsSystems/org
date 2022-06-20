@@ -33,8 +33,8 @@ Planning, prioritization, predictability, continuous delivery, testing and monit
   - You bring together the work of many teams and individuals into a cohesive, achievable plan that aligns with goals and deadlines.
   - You devise, apply, and share novel and nuanced ways to ensure the quality, production readiness, and continued health of complex systems.
   - You incorporate awareness and understanding of work happening outside your team to minimize surprises and make projects more likely to succeed.
-  - You work effectively at a variety of speeds: fast when risk is low and time is tight; more deliberately when a cautious and coordinated process is warranted.
-  - You develop widely used technical metrics that enable engineers to better understand and deliver their work.
+  - You work effectively with a complexity in mind: You don't overengineer solutions when risk is low; You propose a sturdy and complex solution when a cautious and coordinated process needs to be warranted.
+  - You utilize widely used technical metrics that enable other engineers to better understand and deliver their work.
 - **Leading Expert**
   - You remove widely-felt barriers to productivity, finding ways to make the entire engineering organization more effective at shipping products and infrastructure.
   - You create tools to help engineers deliver, test, and monitor software that can be used across the industry.
