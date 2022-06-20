@@ -109,4 +109,12 @@ Responsibility, decision making, mentoring, setting an example.
   - You turn ideas into opportunities which can be later turned into meaningful tracks of work and picked up by your teammates or other teams. And ultimately those ideas result in success.
   - You often take on roles involving direct leadership (for example, coordinating a long-term project or initiative).
 - **Expert**
+  - You have successfully and multiple times changed how Mews engineering functions to meet a critical need. Some examples include changing team structures, ways of working, hiring & onboarding processes etc.
+  - You have a large internal network across not just R&D and engage with other leaders to solve problems (technical, organizational, or social). You have developed strong credibility throughout the company.
+  - You share knowledge and mentor people not just in your teams, but also for example in other departments even outside of R&D.
+  - You have strong business understanding that helped you create an appealing vision for your teams and plan strategically for long-term.
 - **Leading Expert**
+  - You have successfully changed how Mews engineering functions in a way that has moved both Mews forward and established a best practice in the engineering industry.
+  - You are accountable for the success of Mews engineering with respect to attracting engineers and ensuring the strength of our engineering brand.
+  - You regularly represent Mews engineering publicly, e.g. via blog posts, giving talks.
+  - Your technical leadership is cited by many on the engineering team as a significantly positive aspect of working at Mews.
