@@ -6,6 +6,8 @@ If you are not able to fulfill some of these attributes 100%, don't worry. It is
 
 We are using [Officevibe](https://officevibe.com/) as a company wide tool for gathering feedback from team members. Thanks to its _Goals_ feature, we are using it also for tracking of personal goals.
 
+Note that the period does not have to align with performance review cadence. You can have multiple goals in 6 months as well as 1 goal spanning a year.
+
 ## Example
 
 Let's say the goal is **`I want to become better at solving issues at production`**. We will showcase SMART attributes on this example.
