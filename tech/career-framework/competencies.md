@@ -31,15 +31,15 @@ Planning, prioritization, predictability, continuous delivery, testing and monit
   - You're able to identify when best practices and processes are negatively impacting your delivery. You are able to resolve those cases by either proposing changes to the best practices or carefully bypassing them.
 - **Expert**
   - You bring together the work of many teams and individuals into a cohesive, achievable plan that aligns with goals and deadlines.
-  - You devise, apply, and share novel and nuanced ways to ensure the quality, production readiness, and continued health of complex systems.
-  - You incorporate awareness and understanding of work happening outside your team to minimize surprises and make projects more likely to succeed.
-  - You work effectively with a complexity in mind: You don't overengineer solutions when risk is low; You propose a sturdy and complex solution when a cautious and coordinated process needs to be warranted.
-  - You utilize widely used technical metrics that enable other engineers to better understand and deliver their work.
+  - You introduce new practices to ensure the quality, production readiness, and continued health of complex systems.
+  - You incorporate awareness and understanding of work happening in Mews overall to minimize surprises and make projects more likely to succeed.
+  - You use variety of product and project management techniques depending on the context: You are more agile when risk is low; You plan things more thoroughly when the risk is high.
+  - You utilize Mews metrics in a thoughtful manner to reflect on our work and to help others overcome obstacles in their delivery.
 - **Leading Expert**
   - You remove widely-felt barriers to productivity, finding ways to make the entire engineering organization more effective at shipping products and infrastructure.
   - You create tools to help engineers deliver, test, and monitor software that can be used across the industry.
   - You work on the tasks that matter most, even if your capabilities far outweigh the challenge.
-  - You craft systems that continue to function and can be maintained without your continued involvement.
+  - You are considered a critical part of Mews business success.
 
 ## 📚 Domain Expertise
 
@@ -62,15 +62,15 @@ Knowledge of your domain, tools, business, product.
   - You have strong, well-founded opinions about how to build software in your domain, but you're adaptable and open to new ideas.
   - You closely follow industry trends relevant to your domain and you suggest how Mews could utilize them by e.g. opening RFC or sharing in relevant group.
 - **Expert**
-  - You use your expertise to improve Mews's capabilities in your domain.
-  - You actively share your knowledge and seek opportunities to teach others about your domain.
-  - You thoughtfully and practically introduce concepts and technologies from the industry to solve important problems.
+  - Your expertise helps Mews R&D as a whole achieve and exceed its goals.
+  - You actively share your knowledge with wider audiences and regularly teach others about your domain.
+  - You thoughtfully and practically introduce concepts and technologies from the industry to solve important problems of Mews organization.
   - Work you have done or that is based on your expertise has consistently been successful. Your expertise helps projects and teams achieve and exceed their goals.
 - **Leading Expert**
   - Your contributions to the field (e.g. talks, open source projects, research papers) have meaningful impact beyond Mews.
-  - Your expertise helps Mews Engineering as a whole achieve and exceed its goals.
   - You use your expertise to come up with solutions to long-standing or seemingly intractable problems.
   - You contribute to the advancement of the wider industry in your domain.
+  - Your expertise helps Mews organization as a whole to solve critical business problems.
 
 ## 💡 Problem Solving
 
