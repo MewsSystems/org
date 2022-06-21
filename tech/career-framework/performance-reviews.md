@@ -1,6 +1,6 @@
 # Performance Reviews
 
-Every 6 months, we do performance reviews of all members of tech team. The point of this is to identify your areas of improvement, so that you and your manager can understand where to improve and even what particular practices you should be focusing on. And as a consecutive step, set up some personal development goals for the upcoming 6 months. Note that if you've done last performance review less than 3 months ago or if you are with us for less than 2 months, you should skip the performance review.
+Every 6 months, we do performance reviews of all members of tech team. The point of this is to identify your areas of improvement, so that you and your manager can understand where to improve and even what particular practices you should be focusing on. And as a consecutive step, either discuss your progress on your personal development or set up new goals if you don't have any. Note that if you've done last performance review less than 3 months ago or if you are with us for less than 2 months, you should skip the performance review.
 
 ## Agenda
 
@@ -8,7 +8,7 @@ Before the performance review, **allocate 2 hours** to prepare for it, to perfor
 
 1. **Introduction** - Look back at the previous 6 months, talk about what went well and what went wrong.
 1. **[Competency Assessment](competency-assessment.md)** - Before the performance review, you should perform self-assessment and during the performance review, you'll align on your competencies and skills with your manager.
-1. **[Personal Goals](personal-goals.md)** - Talk about opportunities for your personal development with your manager and establish a few personal goals for the upcoming 6 months.
+1. **[Personal Goals](personal-goals.md)** - Talk about the progress of your personal development and possible further opportunities for you with your manager. If you don't have any personal goals currently, this is a great time to put them in place.
 1. **Open Discussion** - Talk about your happiness in the company, problems, struggles, suggestions. Also you can share feedback with your manager.
 
 ## Managers
