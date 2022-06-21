@@ -104,7 +104,7 @@ Analysis, creativity, breakdown of problems, architecture of solutions.
   - You create architecture that gets near-unanimous acceptance and adoption from critical stakeholders.
   - You craft solutions that require little support or overhead and continue working for a long lifespan.
   - You identify barriers that are slowing down teams and initiatives at Mews and create practical solutions, technologies, processes or tools to increase efficiency.
-  - You are a leader who provides actionable direction to teams in the face of complex problems involving multiple stakeholders.
+  - You provide actionable direction to teams in the face of complex problems involving multiple stakeholders.
   - You create and publish new technologies or practices that solve industry-wide problems.
 
 ## 💬 Communication
@@ -140,6 +140,8 @@ Collaboration with others, documentation, relationships with others.
   - You've made significant changes to how Mews handles documentation, facilitation, or collaboration that has improved the functioning of R&D.
   - You educate people on the topic of communication through mentoring, public speaking, blog posts etc.
   - Your presence and example has a strong, positive influence on Mews's working environment.
+  - TODO with external
+
 ## 🎖️ Leadership
 
 Responsibility, decision making, mentoring, setting an example.
