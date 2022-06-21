@@ -8,7 +8,7 @@ Before the performance review, **allocate 2 hours** to prepare for it, to perfor
 
 1. **Introduction** - Look back at the previous 6 months, talk about what went well and what went wrong.
 1. **[Competency Assessment](competency-assessment.md)** - Before the performance review, you should perform self-assessment and during the performance review, you'll align on your competencies and skills with your manager.
-1. **[Personal Goals](personal-goals.md)** - Talk about the progress of your personal development and possible further opportunities for your with your manager. If you don't have any currently, you will establish a few personal goals.
+1. **[Personal Goals](personal-goals.md)** - Talk about the progress of your personal development and possible further opportunities for you with your manager. If you don't have any currently, you will establish a few personal goals.
 1. **Open Discussion** - Talk about your happiness in the company, problems, struggles, suggestions. Also you can share feedback with your manager.
 
 ## Managers
