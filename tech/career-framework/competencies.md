@@ -140,7 +140,7 @@ Collaboration with others, documentation, relationships with others.
   - You've made significant changes to how Mews handles documentation, facilitation, or collaboration that has improved the functioning of R&D.
   - You educate people on the topic of communication through mentoring, public speaking, blog posts etc.
   - Your presence and example has a strong, positive influence on Mews's working environment.
-  - TODO with external
+  - You proficiently communicate even externally with customers, partners and other stakeholders.
 
 ## 🎖️ Leadership
 
