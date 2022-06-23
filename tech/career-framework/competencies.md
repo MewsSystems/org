@@ -119,7 +119,7 @@ Collaboration with others, documentation, relationships with others.
 - **Intermediate**
   - Your written communication is concise and clear. You cope well with the async / remote environment.
   - You write documentation related to your work that is well-structured, clear and easy to follow.
-  - You collaborate well with team members a mentee. You are able to help more junior colleagues, e.g. by being their buddy.
+  - You collaborate well with team members as a mentee. You are able to help more junior colleagues, e.g. by being their buddy.
   - You are able to take in vague requirements and ask the right questions to ensure they are clarified.
   - You have a sense for when and how to appropriately and effectively offer feedback on work. You provide the feedback in a respectful and constructive manner directly to the person, e.g. in code reviews.
   - You seek out and receive constructive criticism well and do not express territorialism over your work.
