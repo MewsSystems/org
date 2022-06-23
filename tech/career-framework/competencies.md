@@ -54,7 +54,7 @@ Knowledge of your domain, tools, business, product.
   - You understand the technical concepts necessary to do your job effectively and are aware of industry trends in your domain.
   - You have a good sense of where to find answers, you are able to consult all documentation and knowledge sources. You are able to help yourself in many cases, you are less reliant on others.
   - You have a good understanding of all tools Mews uses. You understand how they work, and the sorts of situations and problems for which they're useful. You're effective in using them.
-  - You have in depth knowledge of immediate systems you work on and tools you work with. And you have some knowledge of adjacent systems.
+  - You have in depth knowledge of immediate domain you work on and tools you work with. And you have some knowledge of adjacent domains.
   - You understand why your work is important to the business and your users, and how it relates to your team's goals.
 - **Advanced**
   - Your specialized knowledge as well as your business and technical acumen contribute to success of projects.
