@@ -59,7 +59,7 @@ Knowledge of your domain, tools, business, product.
 - **Advanced**
   - Your specialized knowledge as well as your business and technical acumen contribute to success of projects.
   - You can utilize your business, technical and tooling knowledge to help others even outside of your team if needed. You are able to mentor individuals on specific topics and teach them.
-  - You have strong, well-founded opinions about how to build software in your domain, but you're adaptable and open to new ideas.
+  - You have strong, well-founded opinions about how to design solutions in your domain (design systems, build software, establish processes, introduce practices), but you're adaptable and open to new ideas.
   - You closely follow industry trends relevant to your domain and you suggest how Mews could utilize them by e.g. opening RFC or sharing in relevant group.
 - **Expert**
   - Your expertise helps Mews R&D as a whole achieve and exceed its goals.
