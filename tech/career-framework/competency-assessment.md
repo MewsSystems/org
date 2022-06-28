@@ -4,7 +4,7 @@ The biggest part of preparation for a performance review is competency assessmen
 
 ## First-time Self Assessment
 
-We use Excel (OneDrive) sheet to track your competencies and progress. Every person should have their own private copy so you don't need to be worried that some more sensitive personal information or comments would leak out. Check the [competency overview](competencies.md) to learn more about details of the competencies, BTW we're using the [Etsy competency model](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html). 
+We use Excel (OneDrive) sheet to track your competencies and progress. Every person should have their own private copy so you don't need to be worried that some more sensitive personal information or comments would leak out. Check the [competency overview](competencies.md) to learn more about details of the competencies, BTW we're basing it on the [Etsy competency model](https://etsy.github.io/Etsy-Engineering-Career-Ladder/competencies.html). 
 
 1. **Download** the [competencies template document](https://github.com/MewsSystems/org/blob/main/tech/career-framework/competencies-template.xlsx?raw=true) and store it to your personal OneDrive.
 1. **Fill** in your scores (either 0, 1 or 2) for all the skills (cells of the sheet) in each level (column) for each competency (sheet). Please follow the [score definitions](competencies.md#skills) in order to ensure, that we have consistent scoring within the department. After you're done, it may look something like the picture below. The first row automatically shows your progress on the level, do not fill it in. In case of the below sheet, the level is intermediate in domain expertise competency.
