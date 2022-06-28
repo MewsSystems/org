@@ -14,6 +14,7 @@ As mentioned in the definition of career [progress](../progress.md), different [
 | [Platform Division Lead](platform-division-lead.md)                      | 5  | 25 | 15 | 25 | 30 |
 | [Product Family Lead](product-family-lead.md)                            | 10 | 25 | 15 | 25 | 25 |
 | [Platform Family Lead](platform-family-lead.md)                          | 5  | 30 | 25 | 20 | 20 |
+| [Product Security Team Lead](product-security-team-lead.md)              | 20 | 20 | 20 | 20 | 20 |
 | [Product Team Lead](product-team-lead.md)                                | 30 | 10 | 20 | 20 | 20 |
 | [Platform Team Lead](platform-team-lead.md)                              | 20 | 20 | 20 | 20 | 20 |
 | [Data Science Team Lead](data-science-team-lead.md)                      | 25 | 25 | 25 | 15 | 10 |
