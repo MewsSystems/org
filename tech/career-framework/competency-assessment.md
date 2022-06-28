@@ -10,7 +10,7 @@ We use Excel (OneDrive) sheet to track your competencies and progress. Every per
 1. **Fill** in your scores (either 0, 1 or 2) for all the skills (cells of the sheet) in each level (column) for each competency (sheet). Please follow the [score definitions](competencies.md#skills) in order to ensure, that we have consistent scoring within the department. After you're done, it may look something like the picture below. The first row automatically shows your progress on the level, do not fill it in. In case of the below sheet, the level is intermediate in domain expertise competency.
 1. **Share** the document with your manager so that they can see your scores, comments, comment on their own etc.
 
-![image](https://user-images.githubusercontent.com/435787/131228819-301827b9-0abd-4dab-8765-d8c3bd7f6743.png)
+![image](https://user-images.githubusercontent.com/435787/176137326-1211269c-a990-4b4b-adc7-3ee432216a37.png)
 
 ## Follow-up Self Assessment
 
