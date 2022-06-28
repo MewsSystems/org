@@ -1,6 +1,6 @@
 # Performance Reviews
 
-Every 6 months, we do performance reviews of all members of tech team. The point of this is to identify your areas of improvement, so that you and your manager can understand where to improve and even what particular practices you should be focusing on. And as a consecutive step, either discuss your progress on your personal development or set up new goals if you don't have any. Note that if you've done last performance review less than 3 months ago or if you are with us for less than 2 months, you should skip the performance review.
+Every 6 months, we do performance reviews of all members of tech team. The point of this is to identify your areas of improvement, so that you and your manager can understand where to improve and even what particular practices you should be focusing on. And as a consecutive step, either discuss your progress on your personal development or set up new goals if you don't have any. Note that if you've done last performance review less than 3 months ago or if you are with us for less than 3 months, you should skip the performance review.
 
 ## Agenda
 
