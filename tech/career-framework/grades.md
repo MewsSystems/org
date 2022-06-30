@@ -14,16 +14,14 @@ For example an engineer with progress P = 2.50 would have grade IC4, minimum nor
 
 | Career Track               | Min P | Max P | Grade | Job Title                                       | Min Salary | Next Salary |
 |----------------------------|-------|-------|-------|-------------------------------------------------|------------|-------------|
-| Product Division Lead      | 3.50  | 5.00  | L1    | VP Engineering, Product                         |     173000 |      288000 |
-| Platform Division Lead     | 3.50  | 5.00  | L1    | VP Engineering, Platform                        |     173000 |      288000 |
-| Product Family Lead        | 0.00  | 2.00  | S2    | Engineering Manager, {Discriminator}            |      81000 |      115000 |
-| Product Family Lead        | 2.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |     115000 |      150000 |
-| Product Family Lead        | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |     150000 |      184000 |
-| Product Family Lead        | 4.20  | 5.00  | D2    | Senior Director of Engineering, {Discriminator} |     184000 |      230000 |
-| Platform Family Lead       | 0.00  | 2.00  | S2    | Engineering Manager, {Discriminator}            |      81000 |      115000 |
-| Platform Family Lead       | 2.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |     115000 |      150000 |
-| Platform Family Lead       | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |     150000 |      184000 |
-| Platform Family Lead       | 4.20  | 5.00  | D2    | Senior Director of Engineering, {Discriminator} |     184000 |      230000 |
+| Product Division Lead      | 3.50  | 5.00  | L1    | VP Engineering, Product                         |     200000 |      300000 |
+| Platform Division Lead     | 3.50  | 5.00  | L1    | VP Engineering, Platform                        |     200000 |      300000 |
+| Product Family Lead        | 0.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |     120000 |      175000 |
+| Product Family Lead        | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |     175000 |      210000 |
+| Product Family Lead        | 4.20  | 5.00  | D2    | Senior Director of Engineering, {Discriminator} |     210000 |      250000 |
+| Platform Family Lead       | 0.00  | 3.10  | M1    | Engineering Manager, {Discriminator}            |     120000 |      175000 |
+| Platform Family Lead       | 3.10  | 4.20  | D1    | Director of Engineering, {Discriminator}        |     175000 |      210000 |
+| Platform Family Lead       | 4.20  | 5.00  | D2    | Senior Director of Engineering, {Discriminator} |     210000 |      250000 |
 | Product Team Lead          | 0.00  | 1.40  | S1    | Engineering Manager                             |      69000 |       92000 |
 | Product Team Lead          | 1.40  | 2.60  | S2    | Engineering Manager                             |      92000 |      121000 |
 | Product Team Lead          | 2.60  | 3.80  | M1    | Engineering Manager                             |     121000 |      161000 |
