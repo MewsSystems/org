@@ -13,7 +13,7 @@ Besides salary or normalized salary, the formulas contain three multipliers. Use
 
 | Period | Currency | Country |
 |--------|----------|---------|
-| **Hour** - 160<br/> **Month** - 1 <br/>**Year** - 0.0833 | **CZK** - 1<br/> **EUR** - 26<br/> **GBP** - 30<br/> **USD** - 22<br/> **HRK** - 3.3<br/> **HUF** - 0.062 | **CZ** - 1.00<br/> **UK** - 0.60<br/> **NL** - 0.55<br/> **DE** - 0.55<br/> **BE** - 0.55<br/> **FR** - 0.65<br/> **ES** - 0.75<br/> **US** - 0.50<br/> **NO** - 0.55<br/> **HR** - 1.15<br/> **HU** - 1.50<br/> **AT** - 0.70<br/> **BG** - 2.0 |
+| **Hour** - 160<br/> **Month** - 1 <br/>**Year** - 0.0833 | **CZK** - 1<br/> **EUR** - 26<br/> **GBP** - 30<br/> **USD** - 22<br/> **HRK** - 3.3<br/> **HUF** - 0.062 | **CZ** - 1.00<br/> **UK** - 0.60<br/> **NL** - 0.55<br/> **DE** - 0.55<br/> **BE** - 0.55<br/> **FR** - 0.65<br/> **ES** - 0.75<br/> **US** - 0.50<br/> **NO** - 0.55<br/> **HR** - 1.15<br/> **HU** - 1.50<br/> **AT** - 0.70<br/> **BG** - 1.63 |
 
 ## Examples
 
