@@ -13,7 +13,7 @@ Planning, prioritization, predictability, continuous delivery, testing and monit
   - You verify your output by self-reviewing, self-testing in order to minimize issues found by others.
   - You follow-up on your work after it's released and quickly address issues as they arise.
   - You collect and incorporate feedback (solutioning before start, code reviews, gathering buy-in) to ship your work.
-  - You're comfortable using the tools relevant to your domain, and your development environment enables - you to be productive.
+  - You're comfortable using the tools relevant to your domain, and your development environment enables you to be productive.
   - You ship complete solutions, but release them in small, safe patches.
 - **Intermediate**
   - You estimate accurate timelines for tasks and deliver work at a steady, predictable pace to hit your deadlines.
